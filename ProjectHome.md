@@ -1,0 +1,1 @@
+In fact, I'am learning this for just a few weeks. But I'am quite confident that a few months later, this project will mature and help people making bsp on their omap-based hardware.
